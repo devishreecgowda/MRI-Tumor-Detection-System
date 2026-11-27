@@ -1,8 +1,6 @@
+tensorflow
 numpy
-pandas
+Pillow
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
-tensorflow
-opencv-python
-Pillow
